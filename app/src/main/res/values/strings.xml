@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToggleButtonDemo</string>
+    <string name="action_settings">Settings</string>
+</resources>
